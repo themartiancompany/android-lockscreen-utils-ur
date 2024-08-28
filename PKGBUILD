@@ -6,8 +6,8 @@
 _offline="false"
 _git="false"
 pkgname=android-lockscreen-utils
-pkgver=0.0.0.0.0.0.0.0.0.0.0.0.0.1
-_commit="0720e008f294dcaa52073b93a7092aa53b1ec387"
+pkgver=0.0.0.0.0.0.0.0.0.0.0.0.0.1.1
+_commit="1375dba20c9908e24d5ebb3d9eb382d87f688c8b"
 pkgrel=1
 _pkgdesc=(
   "Android lockscreen utility commands"
