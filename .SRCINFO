@@ -1,0 +1,17 @@
+pkgbase = android-lockscreen-utils
+	pkgdesc = Android lockscreen utility commands
+	pkgver = 0.0.0.0.0.0.0.0.0.0.0.0.0.1
+	pkgrel = 1
+	url = https://github.com/themartiancompany/android-lockscreen-utils
+	arch = any
+	license = AGPL3
+	checkdepends = shellcheck
+	makedepends = make
+	depends = displayctl
+	depends = sdotool
+	depends = tsu
+	source = android-lockscreen-utils-0720e008f294dcaa52073b93a7092aa53b1ec387.zip::https://github.com/themartiancompany/android-lockscreen-utils/archive/0720e008f294dcaa52073b93a7092aa53b1ec387.zip
+	validpgpkeys = 97E989E6CF1D2C7F7A41FF9F95684DBE23D6A3E9
+	sha256sums = 9c731f21bf458819152c57204f6958ee7ff12d338e70b6b063936b387bcf98d0
+
+pkgname = android-lockscreen-utils
